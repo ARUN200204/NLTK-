@@ -201,7 +201,4 @@ import logging
 
 logging.getLogger().setLevel(logging.CRITICAL)
 response1 = index.query( "") 
-llm_predictor = LLMPredictor(llm=customLLM())
 
-
-  
