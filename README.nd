@@ -8,9 +8,9 @@ pyhton
 
 
 REQUIRED THINGS
-Nvidia GPU
-1)cuda_11.2
-2)cudnn
+1)Nvidia GPU
+2)cuda_11.2
+3)cudnn
 
 
 SUPPORTED ENVIRONMENT
