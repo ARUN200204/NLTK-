@@ -1,0 +1,23 @@
+PROJECT NAME
+this model is used to summarize the given text and produce a Q&A model with it
+
+
+PREQUISTICS
+pyhton
+
+
+
+REQUIRED THINGS
+Nvidia GPU
+1)cuda_11.2
+2)cudnn
+
+
+SUPPORTED ENVIRONMENT
+google colab
+vs code
+
+USAGE
+we have give the question at the last part of the program,index.query()
+the input should we string
+
